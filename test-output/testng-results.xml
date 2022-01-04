@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68128" started-at="2022-01-04T08:30:37 CST" finished-at="2022-01-04T08:31:45 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68128" started-at="2022-01-04T08:30:37 CST" finished-at="2022-01-04T08:31:45 CST">
+      <class name="test.AddNewItemPageTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="init" is-config="true" duration-ms="8557" started-at="2022-01-04T08:30:37 CST" finished-at="2022-01-04T08:30:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="userShouldBeAbleToAddNewItem()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="userShouldBeAbleToAddNewItem" duration-ms="6848" started-at="2022-01-04T08:30:45 CST" finished-at="2022-01-04T08:30:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddNewItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="tearDown" is-config="true" duration-ms="1312" started-at="2022-01-04T08:30:52 CST" finished-at="2022-01-04T08:30:54 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="init" is-config="true" duration-ms="6904" started-at="2022-01-04T08:30:54 CST" finished-at="2022-01-04T08:31:00 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="userShouldNotBeAbleToAddADuplicateItem()[pri:1, instance:test.AddNewItemPageTest@1b68ddbd]" name="userShouldNotBeAbleToAddADuplicateItem" duration-ms="5914" started-at="2022-01-04T08:31:00 CST" finished-at="2022-01-04T08:31:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldNotBeAbleToAddADuplicateItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="tearDown" is-config="true" duration-ms="3777" started-at="2022-01-04T08:31:06 CST" finished-at="2022-01-04T08:31:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="init" is-config="true" duration-ms="6716" started-at="2022-01-04T08:31:10 CST" finished-at="2022-01-04T08:31:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="userShouldBeAbleToSelectAllMonths()[pri:2, instance:test.AddNewItemPageTest@1b68ddbd]" name="userShouldBeAbleToSelectAllMonths" duration-ms="27305" started-at="2022-01-04T08:31:17 CST" finished-at="2022-01-04T08:31:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToSelectAllMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddNewItemPageTest@1b68ddbd]" name="tearDown" is-config="true" duration-ms="712" started-at="2022-01-04T08:31:44 CST" finished-at="2022-01-04T08:31:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AddNewItemPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
